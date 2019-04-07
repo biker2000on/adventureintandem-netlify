@@ -6,6 +6,13 @@ description: >-
   Everything you need plus some for a round-the-world trip on a tandem bicycle,
   or really any bicycle.
 slug: gear-list
+categories:
+  - gear list
+  - equipment
+  - ''
+tags:
+  - gear list
+  - equipment
 ---
 
 The gear you bring with you on a trip of around the world by bike is essential. There is simply no other way to put it. 
