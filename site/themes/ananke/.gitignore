@@ -21,10 +21,13 @@ src/node_modules/
 src/npm-debug.log.*
 npm-debug.log
 /npm-debug.log*
-/dist/
 /src/client.config.json
 /styleguide/
 /docs/
 
 /junit.xml
 partials/structure/stylesheet.html
+
+/dist
+!*/dist
+
