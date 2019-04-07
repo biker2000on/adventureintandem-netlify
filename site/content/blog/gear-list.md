@@ -1,9 +1,18 @@
 ---
-title: "Our Trans Asia Gear List"
-description: Everything we brought on our trip around the world.
-slug: "gear-list"
-date: 2019-04-07T11:26:54+07:00
+title: Our Trans Asia Gear List
+date: 2019-04-07T04:26:54.000Z
 draft: false
+description: >-
+  Everything you need plus some for a round-the-world trip on a tandem bicycle,
+  or really any bicycle.
+slug: gear-list
+categories:
+  - gear list
+  - equipment
+  - ''
+tags:
+  - gear list
+  - equipment
 ---
 
 The gear you bring with you on a trip of around the world by bike is essential. There is simply no other way to put it. 
