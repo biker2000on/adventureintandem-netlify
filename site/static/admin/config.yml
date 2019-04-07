@@ -12,10 +12,13 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image", name: "featured_image", widget: "image", required: false}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list", default: []}
+      - {label: "Tags", name: "tags", widget: "list", default: []}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     folder: "site/content"
@@ -23,10 +26,11 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image", name: "featured_image", widget: "image", required: false}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
     # files:
     #   - file: "site/content/_index.md"
     #     label: "Home Page"
