@@ -1,9 +1,8 @@
 ---
 title: "Acts of Kindness"
 date: 2019-04-08T16:23:29+07:00
-description: "You never know around what corner you will find someone who will become your savior."
+description: You never know around what corner you will find someone who will become your savior.
 featured_image: ""
-description: ""
 categories: ["Acts of Kindness"]
 tags: ["acts of kindness", "kindness", "pay it forward"]
 slug: "acts-of-kindness"
