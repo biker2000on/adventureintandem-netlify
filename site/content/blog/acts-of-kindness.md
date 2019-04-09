@@ -1,12 +1,18 @@
 ---
-title: "Acts of Kindness"
-date: 2019-04-08T16:23:29+07:00
-description: You never know around what corner you will find someone who will become your savior.
-featured_image: ""
-categories: ["Acts of Kindness"]
-tags: ["acts of kindness", "kindness", "pay it forward"]
-slug: "acts-of-kindness"
+title: Acts of Kindness
+date: 2019-04-08T09:23:29.000Z
 draft: false
+description: >-
+  You never know around what corner you will find someone who will become your
+  savior.
+featured_image: /img/p3170018.jpg
+slug: acts-of-kindness
+categories:
+  - Acts of Kindness
+tags:
+  - acts of kindness
+  - kindness
+  - pay it forward
 ---
 When you are riding along on a bike tour and you break down on the side of the road your day comes to an abrupt halt. This is when you start pondering why your bike decided to break down. Sometimes you get super angry at the bike and others you are just plain disappointed that your bike decided to not cooperate. 
 
@@ -46,6 +52,8 @@ He then had us follow him to his house where he fed us breakfast that he had. He
 
 Within 5 minutes of leaving his house we had a driver pull over in front of us. Usually this is a bad sign, as someone is about to spout out a bunch of curse words about cyclists on the road and what not, but he held out a bottle of cold water that we gratefully took and were on our way again. So you never know when people are out to help.
 
+![Singburi cycling team help](/img/p3160009.jpg)
+
 ### The Second Act
 
 Still on the same day as the first act, we had another flat tire. This one we fixed ourselves no problem, but when it came time to put the wheel back on, the nut for the axle was stripped and I was not able to fasten the rear wheel on. 
@@ -57,6 +65,8 @@ Who knew that the Sram Dual Drive hub had special sized nuts?
 Eventually, they gave up looking for a nut and we walked / pushed the bike with her help over to her friend's farm equipment shop to find a nut. We still were not able to find a nut, but he managed to crank one on that was the wrong size and send us off to Chai Nat the next town up the road where we could find a bike shop. 
 
 After spending more than 2 hours with these guys they also refused payment and sent us on our way. 
+
+![farm mechanic act of kindness](/img/p3160017.jpg)
 
 ### The Third Act
 
@@ -74,9 +84,10 @@ All of this on the same day, but to the Thai people to give freely in the only w
 
 After 7 hours of riding/waiting that day for a measly 60 km we were done and stayed in Chai Nat for the night. 
 
+![mad machinist act of kindness](/img/p3170018.jpg)
+
 ## Acts of kindness are all around
 
 People all around the world are innately nice and willing to help out when you have issues. The three acts I detailed above were all from one day, but we have received help many more times from wonderful and kind people. 
 
-We can all learn a thing or 2 from those that give freely. To give freely you will live a better more fulfilling life. We will certainly make sure to pay it forward in the future. 
-
+We can all learn a thing or 2 from those that give freely. To give freely you will live a better more fulfilling life. We will certainly make sure to pay it forward in the future.
