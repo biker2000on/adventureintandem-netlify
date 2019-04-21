@@ -5894,8 +5894,8 @@ pre {
   margin-bottom: 1em;
 }
 
-.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .linkedin, .medium {
-  fill: #BABABA;
+.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .linkedin, .medium, .strava{
+  fill: white;
 }
 
 .new-window {
@@ -5938,6 +5938,10 @@ pre {
 
 .medium:hover {
   fill: #0077b5
+}
+
+.strava:hover {
+  fill: #FC4C02
 }
 
 /* Put your custom styles here and run `npm start` from the "src" directory on */
