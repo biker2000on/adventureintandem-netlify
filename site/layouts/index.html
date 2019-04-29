@@ -4,6 +4,11 @@
     {{ .Content }}
   </article>
 </div>
+<div class="flex justify-between">
+  <a href="/tourmap" class="pa3 dim"><img src="/img/WHERE ARE WE NOW.png"></a>
+  <a href="/blog" class="pa3 dim"><img src="/img/BLOG.png"></a>
+  <a href="/route" class="pa3 dim"><img src="/img/2019 ROUTE.png"></a>
+</div>
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
   {{/* Create a variable with that section to use in multiple places. */}}
