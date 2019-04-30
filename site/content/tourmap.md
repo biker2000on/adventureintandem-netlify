@@ -3,7 +3,6 @@ title: "Track Us"
 description: "Track our progress on our 2019 tour of Asia and Europe."
 date: 2019-03-12T15:02:17+07:00
 draft: false
-featured_image: "/images/tandem.jpg"
 slug: tourmap
 menu: 
     main: {

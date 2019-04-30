@@ -2,6 +2,7 @@
 title: Our Trans Asia Gear List
 date: 2019-04-07T04:26:54.000Z
 draft: false
+featured_image: /img/tandem-vietnam.jpg
 description: >-
   Everything you need plus some for a round-the-world trip on a tandem bicycle,
   or really any bicycle.
