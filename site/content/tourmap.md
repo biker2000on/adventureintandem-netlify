@@ -11,10 +11,10 @@ menu:
 ---
 <head>
   <link href=/css/app.49d65c74.css rel=preload as=style>
-  <link href=/css/chunk-vendors.79ad0f4a.css rel=preload as=style>
-  <link href=/js/app.250c6ba4.js rel=preload as=script>
-  <link href=/js/chunk-vendors.99354bd3.js rel=preload as=script>
-  <link href=/css/chunk-vendors.79ad0f4a.css rel=stylesheet>
+  <link href=/css/chunk-vendors.9b6ea222.css rel=preload as=style>
+  <link href=/js/app.1e170cce.js rel=preload as=script>
+  <link href=/js/chunk-vendors.6686ea75.js rel=preload as=script>
+  <link href=/css/chunk-vendors.9b6ea222.css rel=stylesheet>
   <link href=/css/app.49d65c74.css rel=stylesheet>
 </head>
 <p>Below you will find a map and table of all of our rides so far on our 2019 tour from Bangkok, Thailand to Barcelona,
@@ -23,4 +23,4 @@ menu:
   this map is being built from.</p><noscript><strong>We're sorry but this map doesn't work properly without JavaScript
     enabled. Please enable it to continue.</strong></noscript>
 <div id=app></div>
-<script src=/js/chunk-vendors.99354bd3.js> </script> <script src=/js/app.250c6ba4.js> </script>
+<script src=/js/chunk-vendors.6686ea75.js> </script> <script src=/js/app.1e170cce.js> </script>
