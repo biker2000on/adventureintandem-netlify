@@ -10,12 +10,12 @@ menu:
     }
 ---
 <head>
-  <link href=/css/app.49d65c74.css rel=preload as=style>
-  <link href=/css/chunk-vendors.9b6ea222.css rel=preload as=style>
-  <link href=/js/app.1e170cce.js rel=preload as=script>
-  <link href=/js/chunk-vendors.6686ea75.js rel=preload as=script>
-  <link href=/css/chunk-vendors.9b6ea222.css rel=stylesheet>
-  <link href=/css/app.49d65c74.css rel=stylesheet>
+  <link href=/css/app.75e2d988.css rel=preload as=style>
+  <link href=/css/chunk-vendors.dbb6680c.css rel=preload as=style>
+  <link href=/js/app.98039e17.js rel=preload as=script>
+  <link href=/js/chunk-vendors.fcc37679.js rel=preload as=script>
+  <link href=/css/chunk-vendors.dbb6680c.css rel=stylesheet>
+  <link href=/css/app.75e2d988.css rel=stylesheet>
 </head>
 <p>Below you will find a map and table of all of our rides so far on our 2019 tour from Bangkok, Thailand to Barcelona,
   Spain. Check back often to follow along.</p>
@@ -23,4 +23,4 @@ menu:
   this map is being built from.</p><noscript><strong>We're sorry but this map doesn't work properly without JavaScript
     enabled. Please enable it to continue.</strong></noscript>
 <div id=app></div>
-<script src=/js/chunk-vendors.6686ea75.js> </script> <script src=/js/app.1e170cce.js> </script>
+<script src=/js/chunk-vendors.fcc37679.js> </script> <script src=/js/app.98039e17.js> </script>
